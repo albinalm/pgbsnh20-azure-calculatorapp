@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "ScmType": "GitHubAction",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=b1591846-2dd5-4451-9e1f-e6e08b79c5f6;IngestionEndpoint=https://westeurope-5.in.applicationinsights.azure.com/",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "b1591846-2dd5-4451-9e1f-e6e08b79c5f6",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=storageaccountpgbsnaf37;AccountKey=CI4uwqX0Qn8ig/mybsYu+0sr7B2ULm876ZviXJuqRZqQhrmWBCrzu3NwiM7oONllTKod2Byt/D1lp/NpFdhhUQ==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "calculator-pgbsnh20aalmbe1c",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "calculator-pgbsnh20aalm",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountpgbsnaf37;AccountKey=CI4uwqX0Qn8ig/mybsYu+0sr7B2ULm876ZviXJuqRZqQhrmWBCrzu3NwiM7oONllTKod2Byt/D1lp/NpFdhhUQ==;EndpointSuffix=core.windows.net"
+  }
+}
